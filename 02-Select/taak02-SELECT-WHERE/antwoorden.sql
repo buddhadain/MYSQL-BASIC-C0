@@ -1,11 +1,11 @@
 -- Opdracht 1 
-
+SELECT * FROM jaar2015 WHERE rank=7
 -- Opdracht 2 
-
+SELECT * FROM `jaar2016` WHERE country='Netherlands'
 -- Opdracht 3
-
--- Opdracht 4
-
+SELECT * FROM `jaar2015` WHERE country='Netherlands'
+-- Opdracht 4 zelfde antwoord als 2, klopt dit
+SELECT * FROM `jaar2016` WHERE country='Netherlands'
 -- Opdracht 5
 
 -- Opdracht 6 
